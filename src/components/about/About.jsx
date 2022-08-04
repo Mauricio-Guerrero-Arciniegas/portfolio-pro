@@ -22,28 +22,31 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>3+ yearse Working</small>
+              <h5>Knowledge</h5>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Teamwork</h5>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
             </article>
           </div>
 
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Praesentium laudantium nemo pariatur excepturi non! Dolores 
-            ab asperiores, voluptatibus ullam facilis quaerat excepturi? 
-            Necessitatibus impedit veritatis, cum consequuntur laborum blanditiis error?
+          <p align="center">
+            I am a Frontend and Backend developer with the desire to learn
+            every day and put it into practice in the workplace, I have been studying
+            new technologies
+            in order to update my knowledge and be able to continue my path as an Engineer.
+            I have always been someone who has both a creative and a logical side.
+            When I discovered web design in college, I realized that
+            would fit perfectly. I could use my creative side to design
+            and my logical side to program. As a bonus, being a designer
+            and developer allows me to make sure that no detail is lost
+            in the production.
           </p>
           <a href="#contact" className='btn btn-primary'>Let´s Talk</a>
         </div>

@@ -4,51 +4,59 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
+import IMG7 from '../../assets/portfolio7.jpg'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'https://dribble.com/shorts/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Tower Block Game - Html - CSS - JavaScript.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/Tower-Block',
+    demo: 'https://neon-lebkuchen-849d18.netlify.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribble.com/shorts/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'React E-Commerce with operational cart.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/Ecommerce',
+    demo: 'https://app.netlify.com/sites/startling-longma-c9841a/overview'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribble.com/shorts/17290917-Eclipse-Figma-dashboard-UI.kit-for-data-design-web-apps'
+    title: 'Rick and Morty - Api - filter by category - search - ReactJS.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/Rick-Morty',
+    demo: 'https://idyllic-vacherin-6055dc.netlify.app/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribble.com/shorts/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'Functional calculator with Claymorphism - CSS.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/Calculator',
+    demo: 'https://clinquant-bubblegum-ae85c1.netlify.app/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribble.com/shorts/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'ReactJS PokeDex - React Router - Redux Thunk.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/pokedex',
+    demo: 'https://app.netlify.com/sites/stunning-narwhal-bfa531/overview'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribble.com/shorts/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Weather App - Api - HTML - CSS - JavaScript.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/WeatherApp',
+    demo: 'https://jovial-tarsier-4344a0.netlify.app/'
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'E-Commerce HTML - CSS - JavaScript - ReactJS.',
+    github: 'https://github.com/Mauricio-Guerrero-Arciniegas/e-commerce-react',
+    demo: 'https://chipper-buttercream-177dd1.netlify.app/#/'
   },
 ]
 
