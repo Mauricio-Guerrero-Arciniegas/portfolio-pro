@@ -115,21 +115,26 @@ img {
 @media screen and (max-width: 1024px) {
     .container {
         width: var(--container-width-md);
-        height: 130vh;
+        
     }
 
     section {
-        margin-top: 6rem;
+        margin-top: 2rem;
+        
     }
 }
 
 /*============ MEDIA QUERIES ( SMALL DEVICES ) ============*/
 @media screen and (max-width: 600px) {
     .container {
+        
         width: var(--container-width-sm);
     }
 
     section > h2 {
         margin-bottom: 2rem;
+    }
+    section {
+        margin-bottom: 0rem;
     }
 }

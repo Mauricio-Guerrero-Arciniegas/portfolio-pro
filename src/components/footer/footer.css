@@ -48,8 +48,13 @@ footer a {
 }
 
 .footer__copyright {
-    margin-bottom: 4rem;
+    margin-bottom: 6rem;
     color: var(--color-bg);
+}
+
+.logo {
+    width: 50px;
+    align-items: center;
 }
 
 /*============ MEDIA QUERIES ( SMALL DEVICES ) ============*/
