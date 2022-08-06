@@ -37,7 +37,8 @@ const About = () => {
           </div>
 
           <p align="center">
-            I am a Frontend and Backend developer with the desire to learn
+            I am systems Engenier Frontend and Backend developer, camping lover and outdoor sports. 
+            With the desire to learn
             every day and put it into practice in the workplace, I have been studying
             new technologies
             in order to update my knowledge and be able to continue my path as an Engineer.

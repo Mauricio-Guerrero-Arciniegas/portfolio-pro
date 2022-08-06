@@ -21,7 +21,7 @@ const data = [
     image: IMG2,
     title: 'React E-Commerce with operational cart.',
     github: 'https://github.com/Mauricio-Guerrero-Arciniegas/Ecommerce',
-    demo: 'https://app.netlify.com/sites/startling-longma-c9841a/overview'
+    demo: 'https://startling-longma-c9841a.netlify.app/'
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ const data = [
     image: IMG5,
     title: 'ReactJS PokeDex - React Router - Redux Thunk.',
     github: 'https://github.com/Mauricio-Guerrero-Arciniegas/pokedex',
-    demo: 'https://app.netlify.com/sites/stunning-narwhal-bfa531/overview'
+    demo: 'https://stunning-narwhal-bfa531.netlify.app/'
   },
   {
     id: 6,
